@@ -13,7 +13,7 @@ So you have to pay attention to the prompt that tells you if your guess was too 
 
 
 ## Gameplay
-![gameplay](https://gyazo.com/b7361a14193a0dfbcc32dc2dac23caa0)
+![gameplay](https://gyazo.com/b7361a14193a0dfbcc32dc2dac23caa0.gif)
 
 ## Start screen
 ![start-screen](https://github.com/EoinReid/take-a-guess/blob/main/take-a-guess/guess-start.JPG)
